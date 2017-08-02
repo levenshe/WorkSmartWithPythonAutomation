@@ -1,6 +1,6 @@
 # Get Emails From Google Form
 
-Download your Google Form responses to \*.CSV, for example "JoinPythonSharingCourses.csv"
+Download your Google Form responses to \*.CSV, change the filenname to your CSV filename, for example "JoinPythonSharingCourses.csv" to your filename.
 
 ```py
 import pandas as pd
@@ -24,8 +24,6 @@ ss=ss.replace("]",'')
 print(type(ss))
 print(ss)
 ```
-
-
 
 
 
