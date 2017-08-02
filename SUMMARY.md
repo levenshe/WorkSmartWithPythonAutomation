@@ -8,6 +8,6 @@
   * dict
   * set
   * [Automation Topics](automation-topics.md)
-  * [Get Emails from CSV File](automation-topics/chapter1.md)
-* [Image Analysis](image-analysis.md)
+    * [Image Analysis](automation-topics/image-analysis.md)
+    * [Get Emails from CSV File](automation-topics/chapter1.md)
 
