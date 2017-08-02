@@ -1,6 +1,13 @@
+
+
+# Python Language Basic
+
+
+
+## Sample code
+
 ```py
 # Filename: MyFirstPython.py
-
 def SayHi(MyName):
     print ('Hi', MyName+'! How are you?')
 
@@ -12,7 +19,6 @@ SayHi('Kenny')
 print ('Hello World! here is', MyName,'\'first Python development.')
 print ('Hello World! here is '+ MyName+'\'first Python development.')
 print ('Hello World! here is {0} first Python development.'.format(MyName))
-
 ```
 
 
