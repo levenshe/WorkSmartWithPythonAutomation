@@ -1,4 +1,4 @@
 # Work Smart with Python Automation
 
-test book
+This is a public book for Python scripting language knowledge.
 
