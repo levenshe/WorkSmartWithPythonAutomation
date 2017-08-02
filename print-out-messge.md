@@ -1,6 +1,8 @@
-
-
 # Python Language Basic
+
+
+
+
 
 
 
@@ -20,8 +22,6 @@ print ('Hello World! here is', MyName,'\'first Python development.')
 print ('Hello World! here is '+ MyName+'\'first Python development.')
 print ('Hello World! here is {0} first Python development.'.format(MyName))
 ```
-
-
 
 
 
